@@ -30,7 +30,7 @@ public class Main {
                  marcarMejorJugador("DAni");
                  break;
              case 5:
-                 agregarKilometrosRecorridos();
+                 agregarKilometrosRecorridos("la pola es una gorfa");
                  break;
              case 6:
                  listarJugadoresFederados();
