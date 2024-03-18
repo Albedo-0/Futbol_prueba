@@ -21,7 +21,7 @@ public class Main {
                  break;
              case 2:
                  darAltaJugador();
-                 System.out.println("jugador creado");
+                 System.out.println("DarDealta a jugador viva el betis joder que guapo yiah");
                  break;
              case 3:
                  mostrarJugadoresPorEquipo();
