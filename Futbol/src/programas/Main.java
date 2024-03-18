@@ -24,7 +24,7 @@ public class Main {
                  System.out.println("DarDealta a jugador viva el betis joder que guapo yiah");
                  break;
              case 3:
-                 mostrarJugadoresPorEquipo();
+                 mostrarJugadoresPorEquipo("hola soy alvaro jaja ");
                  break;
              case 4:
                  marcarMejorJugador();
