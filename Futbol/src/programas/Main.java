@@ -27,7 +27,7 @@ public class Main {
                  mostrarJugadoresPorEquipo("hola soy alvaro jaja ");
                  break;
              case 4:
-                 marcarMejorJugador();
+                 marcarMejorJugador("DAni");
                  break;
              case 5:
                  agregarKilometrosRecorridos();
