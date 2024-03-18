@@ -17,7 +17,7 @@ public class Main {
          switch (opcion) {
              case 1:
                  darAltaEquipo();
-                 System.out.println("Equipo creado");
+                 System.out.println("Equipo creado correctamente");
                  break;
              case 2:
                  darAltaJugador();
